@@ -6,3 +6,4 @@ congratulated_message = message.upper()
 
 # Display the congratulated message
 print("Congratulations message in uppercase:", congratulated_message)
+print("")
